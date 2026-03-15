@@ -12,7 +12,7 @@ export function Footer() {
         <div className="flex flex-col items-start justify-between gap-y-12 pt-16 pb-6 lg:flex-row lg:items-center lg:py-16">
           <div>
             <div className="flex items-center text-gray-900">
-              <Logo className="h-6 w-auto" />
+              <Logo className="h-7 w-auto" />
             </div>
             <nav className="mt-11 flex gap-8">
               <NavLinks />
